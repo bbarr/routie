@@ -1,6 +1,6 @@
 {
-  "name": "routie",
-  "version": "0.0.1",
+  "name": "routie-client",
+  "version": "0.1.0",
   "private": true,
   "main": "./lib/routie.js",
   "devDependencies": {
